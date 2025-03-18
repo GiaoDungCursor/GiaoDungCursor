@@ -1,5 +1,8 @@
 <!--Banner-->
-![Giao Banner Image](profilebanner.jpg)
+<p align="center">
+  <img src="profilebanner.jpg" alt="Giao Banner Image" width="80%">
+</p>
+
 
 <!--Night Owl image-->
 <div>
