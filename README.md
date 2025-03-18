@@ -8,7 +8,7 @@
 
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Giao! 
-*Digital Craftsman (Developer / Programmer)*
+*Slave owner of GPT XD (Developer / Programmer)*
 <br /> 
 
 <!--Start Intro-->               
