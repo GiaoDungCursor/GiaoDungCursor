@@ -7,15 +7,15 @@
 <img align="right" width="280" alt="Night Owl"
      src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 
-<!-- NAME + TYPING -->
+<!-- NAME + INTRO -->
 <h1 align="left">
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
   Hi, I’m Giao!
 </h1>
 
 <p align="left">
-  <strong>Developer / Programmer</strong> — currently nurturing my own “GPT minion” 🤖.  
-  3rd-year IT student @ <b>Hue University of Sciences (HUSC)</b>.
+  <strong>Developer / Programmer</strong> — currently training my own “GPT minion” 🤖.<br/>
+  4th-year IT student @ <b>Hue University of Sciences (HUSC)</b>.
 </p>
 
 <!-- QUICK BADGES -->
@@ -33,18 +33,22 @@
 
 <!-- ONE-LINER -->
 <p align="left">
-  ✨ “Học mỗi ngày một chút — đủ để tương lai bất ngờ.”  
-  🌱 Hiện mình đang đào sâu <b>Flutter</b>, <b>Firebase</b>, và Web (React + Tailwind).
+  ✨ “Learn a little every day—enough to surprise your future self.”<br/>
+  🌱 Currently diving into <b>Flutter</b>, <b>Firebase</b>, and Web (React + Tailwind).
+</p>
+
+<!-- PORTFOLIO -->
+<p align="left">
+  🔗 <b>Portfolio / CV:</b> <a href="https://giaohoclaptrinh.github.io/MyCV/cv.html" target="_blank">giaohoclaptrinh.github.io/MyCV/cv.html</a>
 </p>
 
 ---
 
-## 🚀 Về mình
-- 🧑‍🎓 Sinh viên năm 3 CNTT — HUSC.  
-- 🛠️ Mê build app từ UI đến service (đặc biệt là mobile + Firebase).  
-- 🤝 Luôn sẵn sàng collab dự án thú vị.  
-- 🗒️ <i>(P/s) Mình từng “mượn lời” intro của Kiran — giờ mình đã remix lại cho hợp vibe ✌️</i>  
-- 🌐 Portfolio (đang dựng): <a href="https://Giaohoclaptrinh.github.io">Giaohoclaptrinh.github.io</a>
+## 🚀 About Me
+- 🧑‍🎓 4th-year CS student — HUSC.  
+- 🛠️ I build apps end-to-end (UI + services), especially mobile with Firebase.  
+- 🤝 Open to collaborating on fun, practical projects.  
+- 🗒️ *(p.s.) I once “borrowed” Kiran’s intro—now remixed for my vibe ✌️*
 
 ---
 
@@ -53,14 +57,14 @@
   <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,js,ts,react,html,css,tailwind,git,github,vscode,androidstudio&perline=8" />
 </p>
 
-### Hiện đang học
-- Native + React + Tailwind + a bit of XML (Android view)
-- Kết nối & tối ưu hoá <b>Firebase</b> (Auth, Firestore, Storage, Functions)
-- Giảm phụ thuộc AI (dù AI rất xịn 😆)
+### Currently Learning
+- Native + React + Tailwind + a bit of Android XML  
+- Firebase (Auth, Firestore, Storage, Functions)  
+- Relying less on AI (even though it’s awesome 😆)
 
 ---
 
-## 🧩 Dự án gần đây
+## 🧩 Recent Projects
 <p align="left">
   <a href="https://github.com/Giaohoclaptrinh/IOT-FARM-2nd">
     <img
@@ -69,11 +73,18 @@
       width="460"
     />
   </a>
+  <a href="https://github.com/Giaohoclaptrinh/work-out-app">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Giaohoclaptrinh&repo=work-out-app&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff"
+      alt="Workout App (Flutter + iOS)"
+      width="460"
+    />
+  </a>
 </p>
 
 ---
 
-## 🏆 Thành tích & Thống kê
+## 🏆 Achievements & Stats
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
@@ -119,7 +130,7 @@
 
 ---
 
-## 🤝 Kết nối
+## 🤝 Connect
 <p align="center">
   <a href="mailto:ttngiao123@gmail.com"><img src="./gmail.png" width="42" alt="Email"></a>
   <a href="https://www.instagram.com/giaosc47"><img src="./instagram.png" width="42" alt="Instagram"></a>
