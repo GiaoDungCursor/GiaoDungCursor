@@ -46,7 +46,7 @@
 <div align="center">
   <h3 style="color: #8E67E4; margin: 20px 0;">🎨 Choose Your Banner Style:</h3>
 
- 
+
 
 <!-- 🎨 PREMIUM BANNER OPTIONS -->
 <!--
@@ -54,7 +54,6 @@
   <h3 style="color: #8E67E4; margin: 20px 0;">🌟 Premium Banner Collection:</h3>
 
   <!-- Option A: Flutter Developer Theme -->
-
 
 <!-- ✨ FLOATING PARTICLES EFFECT -->
 <div align="center">
@@ -226,10 +225,11 @@
 <div align="center">
   <h2 style="color: #8E67E4; text-shadow: 0 0 15px rgba(142, 103, 228, 0.4);">🌟 GitHub Trophies</h2>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Giaodungcursor&no-bg=true&row=1&column=6&margin-w=12&margin-h=12&theme=monokai&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C">
-    <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Giaodungcursor&no-bg=true&no-frame=true&row=1&column=6&margin-w=12&margin-h=12&theme=monokai&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C">
+    <img src="https://github-profile-trophy.vercel.app/?username=Giaodungcursor&theme=monokai&no-frame=true&no-bg=true&margin-w=12&margin-h=12" />
+
   </picture>
 </div>
+
 
 <table width="100%">
   <tr>
