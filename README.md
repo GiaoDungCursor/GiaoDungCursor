@@ -38,9 +38,7 @@
   <a href="https://github.com/Giaodungcursor">
     <img src="https://img.shields.io/github/stars/Giaodungcursor?label=Stars&style=for-the-badge&color=8E67E4" />
   </a>
-  <a href="https://github.com/Giaodungcursor">
-    <img src="https://img.shields.io/github/forks/Giaodungcursor?label=Forks&style=for-the-badge&color=8E67E4" />
-  </a>
+ 
 </div>
 
 <!-- ANIMATED QUOTE -->
@@ -227,12 +225,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8E67E4,c56a90,ffeb95&height=100&section=footer&text=Thanks%20for%20visiting!%20🚀&fontSize=30&fontAlignY=35&animation=twinkling"/>
 </div>
 
-<!-- VISITOR COUNTER -->
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Giaodungcursor/count.svg" alt="Profile Views" />
-</div>
 
-<!-- SNAKE ANIMATION -->
-<div align="center">
-  <img src="https://github.com/Giaodungcursor/Giaodungcursor/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</div>
+
+
