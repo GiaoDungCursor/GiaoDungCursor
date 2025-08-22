@@ -95,9 +95,7 @@
   <a href="https://github.com/Giaodungcursor">
     <img src="https://img.shields.io/github/stars/Giaodungcursor?label=Stars&style=for-the-badge&color=8E67E4&logo=github" />
   </a>
-  <a href="https://github.com/Giaodungcursor">
-    <img src="https://img.shields.io/github/repos/Giaodungcursor?label=Repositories&style=for-the-badge&color=8E67E4&logo=github&logoColor=white" />
-  </a>
+
 </div>
 
 <!-- 💫 ANIMATED QUOTE WITH GLOW -->
