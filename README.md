@@ -20,13 +20,13 @@
 
 <!-- QUICK BADGES -->
 <p align="left">
-  <a href="https://github.com/Giaohoclaptrinh">
+  <a href="https://github.com/GiaoDungCursor">
     <img src="https://komarev.com/ghpvc/?username=Giaohoclaptrinh&label=Profile%20Views&color=8E67E4&style=flat" />
   </a>
-  <a href="https://github.com/Giaohoclaptrinh?tab=followers">
+  <a href="https://github.com/GiaoDungCursor?tab=followers">
     <img src="https://img.shields.io/github/followers/Giaohoclaptrinh?label=Followers&style=flat&color=8E67E4" />
   </a>
-  <a href="https://github.com/Giaohoclaptrinh">
+  <a href="https://github.com/GiaoDungCursor">
     <img src="https://img.shields.io/github/stars/Giaohoclaptrinh?label=Stars&style=flat&color=8E67E4" />
   </a>
 </p>
@@ -39,7 +39,7 @@
 
 <!-- PORTFOLIO -->
 <p align="left">
-  🔗 <b>Portfolio / CV:</b> <a href="https://giaohoclaptrinh.github.io/MyCV/cv.html" target="_blank">giaohoclaptrinh.github.io/MyCV/cv.html</a>
+  🔗 <b>Portfolio / CV:</b> <a href="https://giaodungcursor.github.io/MyCV/cv.html" target="_blank">giaohoclaptrinh.github.io/MyCV/cv.html</a>
 </p>
 
 ---
@@ -66,14 +66,14 @@
 
 ## 🧩 Recent Projects
 <p align="left">
-  <a href="https://github.com/Giaohoclaptrinh/IOT-FARM-2nd">
+  <a href="https://github.com/GiaoDungCursor/IOT-FARM-2nd">
     <img
       src="https://github-readme-stats.vercel.app/api/pin/?username=Giaohoclaptrinh&repo=IOT-FARM-2nd&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff"
       alt="IOT-FARM-2nd"
       width="460"
     />
   </a>
-  <a href="https://github.com/Giaohoclaptrinh/work-out-app">
+  <a href="https://github.com/GiaoDungCursor/work-out-app">
     <img
       src="https://github-readme-stats.vercel.app/api/pin/?username=Giaohoclaptrinh&repo=work-out-app&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff"
       alt="Workout App (Flutter + iOS)"
@@ -88,9 +88,9 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-      srcset="https://github-profile-trophy.vercel.app/?username=Giaohoclaptrinh&no-bg=true&row=1&column=6&margin-w=12&margin-h=12&theme=monokai">
+      srcset="https://github-profile-trophy.vercel.app/?username=Giaodungcursor&no-bg=true&row=1&column=6&margin-w=12&margin-h=12&theme=monokai">
     <img alt="GitHub Trophies"
-      src="https://github-profile-trophy.vercel.app/?username=Giaohoclaptrinh&no-bg=true&no-frame=true&row=1&column=6&margin-w=12&margin-h=12">
+      src="https://github-profile-trophy.vercel.app/?username=Giaodungcursor&no-bg=true&no-frame=true&row=1&column=6&margin-w=12&margin-h=12">
   </picture>
 </p>
 
@@ -100,7 +100,7 @@
       <h3 align="center"><strong>GitHub Stats</strong></h3>
       <p align="center">
         <img
-          src="https://github-readme-stats.vercel.app/api?username=Giaohoclaptrinh&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage"
+          src="https://github-readme-stats.vercel.app/api?username=Giaodungcursor&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage"
           alt="GitHub Stats" />
       </p>
     </td>
@@ -117,7 +117,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Giaohoclaptrinh&bg_color=220a28&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Giaodungcursor&bg_color=220a28&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false"
     alt="Contribution Graph" />
 </p>
 
